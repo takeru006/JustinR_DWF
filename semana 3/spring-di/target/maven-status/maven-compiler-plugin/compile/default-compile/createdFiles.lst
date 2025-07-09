@@ -1,0 +1,6 @@
+sv\edu\udb\spring_di\repository\domain\Movie.class
+sv\edu\udb\spring_di\repository\domain\Movie$MovieBuilder.class
+sv\edu\udb\spring_di\service\MovieService.class
+sv\edu\udb\spring_di\service\implementation\MovieServiceImpl.class
+sv\edu\udb\spring_di\SpringDiApplication.class
+sv\edu\udb\spring_di\repository\MovieRepository.class
